@@ -5,7 +5,7 @@ Sakila is a movie rental store with a vast collection of movies in DVDs and blue
 
 # Task 1
 The Sakila rental store management wants to know the names of all the actors in their movie collection. Display the first names, last names, actor IDs, and the details of the last updated column.
-**select first_name, last_name, actor_id, last_update from actor;**
+# select first_name, last_name, actor_id, last_update from actor;
 
 # Task 2
 Many actore have adopted attractive screen names, mostly at the behest of producers and directors. The management wants to know the following:
